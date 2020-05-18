@@ -1,0 +1,224 @@
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\Exacta\Exacta\bin\Debug\Exacta.exe.config
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\Exacta\Exacta\bin\Debug\Exacta.exe
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\Exacta\Exacta\bin\Debug\Exacta.pdb
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\Exacta\Exacta\obj\Debug\Exacta.csprojAssemblyReference.cache
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\Exacta\Exacta\obj\Debug\Exacta.Menu.resources
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\Exacta\Exacta\obj\Debug\Exacta.Properties.Resources.resources
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\Exacta\Exacta\obj\Debug\Exacta.Settings.resources
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\Exacta\Exacta\obj\Debug\Exacta.csproj.GenerateResource.cache
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\Exacta\Exacta\obj\Debug\Exacta.csproj.CoreCompileInputs.cache
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\Exacta\Exacta\obj\Debug\Exacta.exe
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\Exacta\Exacta\obj\Debug\Exacta.pdb
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\Exacta\Exacta\obj\Debug\Exacta.SinoticoLayout.resources
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\Exacta\Exacta\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\boris\Desktop\ExactaCodeFORNICU\ExactaProj\Exacta\bin\Debug\Exacta.exe.config
+C:\Users\boris\Desktop\ExactaCodeFORNICU\ExactaProj\Exacta\bin\Debug\Exacta.exe
+C:\Users\boris\Desktop\ExactaCodeFORNICU\ExactaProj\Exacta\bin\Debug\Exacta.pdb
+C:\Users\boris\Desktop\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.csprojAssemblyReference.cache
+C:\Users\boris\Desktop\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.Menu.resources
+C:\Users\boris\Desktop\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.Properties.Resources.resources
+C:\Users\boris\Desktop\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.Settings.resources
+C:\Users\boris\Desktop\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.csproj.GenerateResource.cache
+C:\Users\boris\Desktop\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.csproj.CoreCompileInputs.cache
+C:\Users\boris\Desktop\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.exe
+C:\Users\boris\Desktop\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.pdb
+C:\Users\boris\Desktop\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.Production.resources
+C:\Users\boris\Desktop\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\WindowsFormsApp1.Sinottico.resources
+C:\Users\boris\Desktop\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.Articles.resources
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\FromBoris\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.csprojAssemblyReference.cache
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\FromBoris\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.Articles.resources
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\FromBoris\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.Phase.resources
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\FromBoris\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.Production.resources
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\FromBoris\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\WindowsFormsApp1.Sinottico.resources
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\FromBoris\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.Menu.resources
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\FromBoris\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.Properties.Resources.resources
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\FromBoris\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.Settings.resources
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\FromBoris\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.csproj.GenerateResource.cache
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\FromBoris\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.csproj.CoreCompileInputs.cache
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\FromBoris\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.exe
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\FromBoris\ExactaCodeFORNICU\ExactaProj\Exacta\obj\Debug\Exacta.pdb
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\FromBoris\ExactaCodeFORNICU\ExactaProj\Exacta\bin\Debug\Exacta.exe.config
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\FromBoris\ExactaCodeFORNICU\ExactaProj\Exacta\bin\Debug\Exacta.exe
+C:\MyPC\Lucru\Nicu\Exacta\ExactaFinal\FromBoris\ExactaCodeFORNICU\ExactaProj\Exacta\bin\Debug\Exacta.pdb
+C:\Users\boris\Desktop\ExactaCode\Exacta\bin\Debug\Exacta.exe.config
+C:\Users\boris\Desktop\ExactaCode\Exacta\bin\Debug\Exacta.exe
+C:\Users\boris\Desktop\ExactaCode\Exacta\bin\Debug\Exacta.pdb
+C:\Users\boris\Desktop\ExactaCode\Exacta\obj\Debug\Exacta.csprojAssemblyReference.cache
+C:\Users\boris\Desktop\ExactaCode\Exacta\obj\Debug\Exacta.Articles.resources
+C:\Users\boris\Desktop\ExactaCode\Exacta\obj\Debug\Exacta.Phase.resources
+C:\Users\boris\Desktop\ExactaCode\Exacta\obj\Debug\Exacta.Production.resources
+C:\Users\boris\Desktop\ExactaCode\Exacta\obj\Debug\WindowsFormsApp1.Sinottico.resources
+C:\Users\boris\Desktop\ExactaCode\Exacta\obj\Debug\Exacta.Menu.resources
+C:\Users\boris\Desktop\ExactaCode\Exacta\obj\Debug\Exacta.Properties.Resources.resources
+C:\Users\boris\Desktop\ExactaCode\Exacta\obj\Debug\Exacta.Settings.resources
+C:\Users\boris\Desktop\ExactaCode\Exacta\obj\Debug\Exacta.csproj.GenerateResource.cache
+C:\Users\boris\Desktop\ExactaCode\Exacta\obj\Debug\Exacta.csproj.CoreCompileInputs.cache
+C:\Users\boris\Desktop\ExactaCode\Exacta\obj\Debug\Exacta.exe
+C:\Users\boris\Desktop\ExactaCode\Exacta\obj\Debug\Exacta.pdb
+C:\Users\boris\Desktop\ExactaCode\Exacta\obj\Debug\Exacta.Cuts.resources
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\bin\Debug\Exacta.exe.config
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\bin\Debug\Exacta.exe
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\bin\Debug\Exacta.pdb
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.Articles.resources
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.Cuts.resources
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.Phase.resources
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.Production.resources
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\WindowsFormsApp1.Sinottico.resources
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.Menu.resources
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.Properties.Resources.resources
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.Settings.resources
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.exe
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.pdb
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.csproj.CopyComplete
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\bin\Debug\itextsharp.dll
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.Intervals.resources
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\bin\Debug\ZedGraph.dll
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.csproj.ResolveComReference.cache
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.Efficiency.resources
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.LoadingInfo.resources
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.QuantityIntervals.resources
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.Orders.resources
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.Operators.resources
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\obj\Debug\Exacta.Reports.resources
+C:\Users\Nikola\Desktop\ExactaCodeb\Exacta\bin\Debug\AGauge.dll
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\bin\Debug\Exacta.exe.config
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\bin\Debug\Exacta.exe
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\bin\Debug\Exacta.pdb
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\bin\Debug\AGauge.dll
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\bin\Debug\itextsharp.dll
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\bin\Debug\ZedGraph.dll
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.csprojResolveAssemblyReference.cache
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.csproj.ResolveComReference.cache
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.Articles.resources
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.Cuts.resources
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.Efficiency.resources
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.Intervals.resources
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.LoadingInfo.resources
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.Operators.resources
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.Orders.resources
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.Phase.resources
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.Production.resources
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.QuantityIntervals.resources
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.Reports.resources
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\WindowsFormsApp1.Sinottico.resources
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.Menu.resources
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.Properties.Resources.resources
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.Settings.resources
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.csproj.GenerateResource.Cache
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.csproj.CoreCompileInputs.cache
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.exe
+C:\Users\Sergiu\Downloads\Exacta (1)\Exacta\obj\Debug\Exacta.pdb
+C:\Users\Sergiu\Downloads\Exacta\Exacta\bin\Debug\Exacta.exe.config
+C:\Users\Sergiu\Downloads\Exacta\Exacta\bin\Debug\Exacta.exe
+C:\Users\Sergiu\Downloads\Exacta\Exacta\bin\Debug\Exacta.pdb
+C:\Users\Sergiu\Downloads\Exacta\Exacta\bin\Debug\AGauge.dll
+C:\Users\Sergiu\Downloads\Exacta\Exacta\bin\Debug\itextsharp.dll
+C:\Users\Sergiu\Downloads\Exacta\Exacta\bin\Debug\ZedGraph.dll
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.csprojResolveAssemblyReference.cache
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.csproj.ResolveComReference.cache
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.Articles.resources
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.Cuts.resources
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.Efficiency.resources
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.Intervals.resources
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.LoadingInfo.resources
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.Operators.resources
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.Orders.resources
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.Phase.resources
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.Production.resources
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.QuantityIntervals.resources
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.Reports.resources
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\WindowsFormsApp1.Sinottico.resources
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.Menu.resources
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.Properties.Resources.resources
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.Settings.resources
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.csproj.GenerateResource.Cache
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.csproj.CoreCompileInputs.cache
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.exe
+C:\Users\Sergiu\Downloads\Exacta\Exacta\obj\Debug\Exacta.pdb
+E:\exacta final\Exacta\bin\Debug\Exacta.exe.config
+E:\exacta final\Exacta\bin\Debug\Exacta.exe
+E:\exacta final\Exacta\bin\Debug\Exacta.pdb
+E:\exacta final\Exacta\bin\Debug\AGauge.dll
+E:\exacta final\Exacta\bin\Debug\itextsharp.dll
+E:\exacta final\Exacta\bin\Debug\ZedGraph.dll
+E:\exacta final\Exacta\obj\Debug\Exacta.csprojResolveAssemblyReference.cache
+E:\exacta final\Exacta\obj\Debug\Exacta.csproj.ResolveComReference.cache
+E:\exacta final\Exacta\obj\Debug\Exacta.Articles.resources
+E:\exacta final\Exacta\obj\Debug\Exacta.Cuts.resources
+E:\exacta final\Exacta\obj\Debug\Exacta.Efficiency.resources
+E:\exacta final\Exacta\obj\Debug\Exacta.Intervals.resources
+E:\exacta final\Exacta\obj\Debug\Exacta.LoadingInfo.resources
+E:\exacta final\Exacta\obj\Debug\Exacta.Operators.resources
+E:\exacta final\Exacta\obj\Debug\Exacta.Orders.resources
+E:\exacta final\Exacta\obj\Debug\Exacta.Phase.resources
+E:\exacta final\Exacta\obj\Debug\Exacta.Production.resources
+E:\exacta final\Exacta\obj\Debug\Exacta.QuantityIntervals.resources
+E:\exacta final\Exacta\obj\Debug\Exacta.Reports.resources
+E:\exacta final\Exacta\obj\Debug\WindowsFormsApp1.Sinottico.resources
+E:\exacta final\Exacta\obj\Debug\Exacta.Menu.resources
+E:\exacta final\Exacta\obj\Debug\Exacta.Properties.Resources.resources
+E:\exacta final\Exacta\obj\Debug\Exacta.Settings.resources
+E:\exacta final\Exacta\obj\Debug\Exacta.csproj.GenerateResource.Cache
+E:\exacta final\Exacta\obj\Debug\Exacta.csproj.CoreCompileInputs.cache
+E:\exacta final\Exacta\obj\Debug\Exacta.exe
+E:\exacta final\Exacta\obj\Debug\Exacta.pdb
+C:\Users\Nikola\Desktop\New folder\Exacta\bin\Debug\Exacta.exe.config
+C:\Users\Nikola\Desktop\New folder\Exacta\bin\Debug\Exacta.exe
+C:\Users\Nikola\Desktop\New folder\Exacta\bin\Debug\Exacta.pdb
+C:\Users\Nikola\Desktop\New folder\Exacta\bin\Debug\AGauge.dll
+C:\Users\Nikola\Desktop\New folder\Exacta\bin\Debug\itextsharp.dll
+C:\Users\Nikola\Desktop\New folder\Exacta\bin\Debug\ZedGraph.dll
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.csproj.ResolveComReference.cache
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.Articles.resources
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.Cuts.resources
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.Efficiency.resources
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.Intervals.resources
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.LoadingInfo.resources
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.Operators.resources
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.Orders.resources
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.Phase.resources
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.Production.resources
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.QuantityIntervals.resources
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.Reports.resources
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\WindowsFormsApp1.Sinottico.resources
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.Menu.resources
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.Properties.Resources.resources
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.Settings.resources
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.csproj.CopyComplete
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.exe
+C:\Users\Nikola\Desktop\New folder\Exacta\obj\Debug\Exacta.pdb
+E:\Exacta\Exacta\bin\Debug\Exacta.exe.config
+E:\Exacta\Exacta\bin\Debug\Exacta.exe
+E:\Exacta\Exacta\bin\Debug\Exacta.pdb
+E:\Exacta\Exacta\bin\Debug\AGauge.dll
+E:\Exacta\Exacta\bin\Debug\itextsharp.dll
+E:\Exacta\Exacta\bin\Debug\ZedGraph.dll
+E:\Exacta\Exacta\obj\Debug\Exacta.csprojAssemblyReference.cache
+E:\Exacta\Exacta\obj\Debug\Exacta.csproj.ResolveComReference.cache
+E:\Exacta\Exacta\obj\Debug\Exacta.Articles.resources
+E:\Exacta\Exacta\obj\Debug\Exacta.Cuts.resources
+E:\Exacta\Exacta\obj\Debug\Exacta.Efficiency.resources
+E:\Exacta\Exacta\obj\Debug\Exacta.Intervals.resources
+E:\Exacta\Exacta\obj\Debug\Exacta.KeyInput.resources
+E:\Exacta\Exacta\obj\Debug\Exacta.LoadingInfo.resources
+E:\Exacta\Exacta\obj\Debug\Exacta.Operators.resources
+E:\Exacta\Exacta\obj\Debug\Exacta.Orders.resources
+E:\Exacta\Exacta\obj\Debug\Exacta.Phase.resources
+E:\Exacta\Exacta\obj\Debug\Exacta.Production.resources
+E:\Exacta\Exacta\obj\Debug\Exacta.QuantityIntervals.resources
+E:\Exacta\Exacta\obj\Debug\Exacta.Reports.resources
+E:\Exacta\Exacta\obj\Debug\WindowsFormsApp1.Sinottico.resources
+E:\Exacta\Exacta\obj\Debug\Exacta.Menu.resources
+E:\Exacta\Exacta\obj\Debug\Exacta.Properties.Resources.resources
+E:\Exacta\Exacta\obj\Debug\Exacta.Settings.resources
+E:\Exacta\Exacta\obj\Debug\Exacta.csproj.GenerateResource.cache
+E:\Exacta\Exacta\obj\Debug\Exacta.csproj.CopyComplete
+E:\Exacta\Exacta\obj\Debug\Exacta.exe
+E:\Exacta\Exacta\obj\Debug\Exacta.pdb
+E:\Exacta\Exacta\obj\Debug\Exacta.Messagebox.resources

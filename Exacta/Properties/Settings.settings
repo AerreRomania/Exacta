@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Exacta.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="o1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Null</Value>
+    </Setting>
+    <Setting Name="d2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Null</Value>
+    </Setting>
+    <Setting Name="sqlConnections" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=DESKTOP-RHKEO2B\SQLEXPRES;Initial Catalog=Exacta;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="o2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
